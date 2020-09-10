@@ -1,3 +1,3 @@
 # seiretsym.github.io
 
-Check out my portfolio here: http://kerwinhy.com
+Check out my portfolio here: https://kerwinhy.com
